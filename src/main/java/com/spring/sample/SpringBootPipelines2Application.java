@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootPipelines2Application {
 
 	public static void main(String[] args) {
+	  System.out.println("ddda");
 		SpringApplication.run(SpringBootPipelines2Application.class, args);
 	}
 
