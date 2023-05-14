@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootPipelines2Application {
 
 	public static void main(String[] args) {
-	  System.out.println("dddasad from branch 1");
+	  System.out.println("dddasad from master");
 		SpringApplication.run(SpringBootPipelines2Application.class, args);
 	}
 
